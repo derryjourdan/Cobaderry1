@@ -5,6 +5,7 @@ public class Kasir_2 extends javax.swing.JFrame {
 
     /**
      * Creates new form Kasir
+     *  * @author DeJoPe
      */
     public Kasir_2() {
         initComponents();
